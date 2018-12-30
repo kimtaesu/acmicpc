@@ -3,15 +3,14 @@ package acmicpc.sort.select;
 import org.junit.Assert;
 import org.junit.Test;
 
-import java.util.Arrays;
-
-import acmicpc.utils.SortUtils;
+import acmicpc.sort.utils.SortUtils;
 
 /**
  * https://gmlwjd9405.github.io/2018/05/06/algorithm-selection-sort.html
  * Best: N^2
  * Worst: N^2
  * Avg: N^2
+ * 앞쪽부터 정렬이 된다.
  */
 public class SelectionSort {
 

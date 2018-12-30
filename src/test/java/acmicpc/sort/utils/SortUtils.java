@@ -1,4 +1,4 @@
-package acmicpc.utils;
+package acmicpc.sort.utils;
 
 import java.util.Arrays;
 
