@@ -1,4 +1,4 @@
-package acmicpc.sort.select;
+package acmicpc.sort.bubble;
 
 
 import org.junit.Assert;
