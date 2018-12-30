@@ -1,4 +1,4 @@
-package acmicpc.topological
+package acmicpc.sort.topological
 
 // https://www.acmicpc.net/problem/3665
 
