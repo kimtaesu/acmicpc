@@ -10,7 +10,6 @@ import acmicpc.sort.utils.SortUtils;
  * Best: N
  * Worst: N^2
  * Avg: N^2
- * 앞쪽부터 정렬이 된다.
  */
 public class InsertSort {
 
